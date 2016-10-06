@@ -32,7 +32,7 @@ npm run-script server:run
 
 npm run-script server:kill
 
-<H1>3. Now all ready, you can start frond-end by running</H1>
+<H1>3. Now all ready, you can start front-end by running</H1>
 
 npm run-script frontend:run
 
