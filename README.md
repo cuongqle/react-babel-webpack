@@ -18,9 +18,11 @@ npm install webpack, webpack-dev-server
 
 npm install express,cors,body-parser
 
--<b>Some other utilities such as lodash</b>
+-<b>Some other utilities such as lodash, whatwg-fetch</b>
 
 npm install lodash
+
+npm install whatwg-fetch
 
 <H1>2. Start mock server by running</H1>
 
