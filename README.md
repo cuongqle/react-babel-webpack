@@ -4,19 +4,19 @@
 
 -<b>react, react-dom, redux, react-redux</b>
 
-npm install react, react-dom, redux, react-redux
+npm install --save-dev react react-dom redux react-redux
 
 -<b>babel-core, babel-loader, babel-preset-es2015, babel-preset-react, babel-preset-stage-0,babel-plugin-transform-decorators-legacy,babel-plugin-transform-decorators-legacy</b>
 
-npm install babel-core, babel-loader, babel-preset-es2015, babel-preset-react, babel-preset-stage-0,babel-plugin-transform-decorators-legacy,babel-plugin-transform-decorators-legacy
+npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0babel-plugin-transform-decorators-legacy babel-plugin-transform-decorators-legacy
 
 -<b>webpack, webpack-dev-server</b>
 
-npm install webpack, webpack-dev-server
+npm install --save-dev webpack webpack-dev-server
 
 -<b>express,cors,body-parser to simulate mock server</b>
 
-npm install express,cors,body-parser
+npm install --save-dev express cors body-parser
 
 -<b>Some other utilities such as lodash, whatwg-fetch</b>
 
